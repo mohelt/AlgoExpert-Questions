@@ -38,3 +38,18 @@ class Program {
         }
     }
 }
+
+class Program {
+    public static boolean isValidSubsequence(List < Integer > array, List < Integer > sequence) {
+      //O(n) time | O(1) space - where n is the length of the array
+      int i=0;
+      int j=0;
+      while(i<array.size() && j<sequence.size()){
+        if (array.get(i).equals(sequence.get(j)){
+          j++;
+        }
+        i++
+      }
+      return j==sequence.sioze();
+    }
+}
