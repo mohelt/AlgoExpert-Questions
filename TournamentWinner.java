@@ -21,7 +21,7 @@ It's guaranteed that exactly one team will win the tournament and that each team
 //get
 //getKey
 //Map.Entry
-//Map.entrySet()
+//Map.entrySet( )
 class Program {
 
     public String tournamentWinner(
