@@ -1,3 +1,9 @@
+/*
+Write a function that takes in a non empty string and that returns
+a bollean representing whether the string is a palindrome,
+a palindrome is defined as a string that's written the same way forward
+as backword. 
+*/
 import java.util.*;
 
 class Program {
